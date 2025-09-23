@@ -1,4 +1,6 @@
 ## Development Journal
+
+This was created during the development of 
 ### Why is it so ugly?
 
 > [!NOTE]  
